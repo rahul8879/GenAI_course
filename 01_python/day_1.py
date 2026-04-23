@@ -58,8 +58,45 @@ import keyword
 # str -->int
 
 # input from user ?? condtion??
-age = int(input("Enter your age"))
-print("type of age",type(age))
+# age = int(input("Enter your age"))
+# print("type of age",type(age))
 
-# next 5 year ??
-print(age + 5)
+# # next 5 year ??
+# print(age + 5)
+
+# take the input from user 
+# if age is less then 18 --> reject his application
+# else accept his application
+
+# age = int(input("enter you age"))
+
+# print(age<18)
+
+# if age<18:
+#     print('you are not eligible')
+# else:
+#     print('Thank you ')
+
+
+# int, str,boolean(True/False)
+# 5 students --> store makrs ??
+s1 = 34
+s2 = 45
+s3 = 65
+s5 = 76
+s4 = 86
+
+# case 1 : tom 10 more students joins ---> again I neeed to define 10 new variable ??
+
+avg_marks =(s1+s2+s3+s4+s5)/5
+print(avg_marks)
+
+
+# list  : data types 
+
+marks = [34,65,77,86,92,34]
+print('type of marks: ',type(marks))
+
+avg_marks = round(sum(marks)/len(marks), 2)
+
+print('avg marks of the class is: ',avg_marks)
