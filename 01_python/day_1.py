@@ -100,3 +100,28 @@ print('type of marks: ',type(marks))
 avg_marks = round(sum(marks)/len(marks), 2)
 
 print('avg marks of the class is: ',avg_marks)
+
+# two types of function --> inbuilt function ?? when you install python --> external libraries ??
+
+marks = [34,65,77,86,92,34]
+# print(marks[-3])
+# we need to implement solutiuon where no one can change the data 
+# intilized something ??? it should be there as it is 
+
+marks[2] = 89
+print(marks)
+
+marks = (87,95,75)
+marks[0] = 78
+
+# tuple - list : data structure ( they are keeping more then 1 value. they are helping you to store the data
+# )
+# tuples --> immutable -- you cant modify the value once you declared
+# access ?? via index
+
+# code --> saving the files -- typing cmd --output ( time learning )
+
+# int, str, float, boolean list tuple ( variables -->operation )
+# operation ??
+# list --> add, remove, deletem, insert at s0me location 
+# tuple 
