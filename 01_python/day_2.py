@@ -117,7 +117,7 @@ is_valid_passport = False
 
 
 # print(not is_valid_passport)
-print(is_ssn_number_valid or is_valid_passport)
+# print(is_ssn_number_valid or is_valid_passport)
 
 a = 10
 b = 11
@@ -128,8 +128,90 @@ b = 11
 
 
 
-a = 100
-b = 101
+# a = 100
+# b = 201
 
-# bitwise AND
-print(a and b) # | called as pipe operator
+# # bit wise ( binary value --> no sense ? )
+
+# # bitwise AND
+# print(a & b) # | called as pipe operator
+
+
+# assignment operator
+# a=10
+# a = a+10
+# a+=10
+
+a = 5
+b= 6
+
+# identity operator
+
+# print(a is b) # 5 is object created once both a and b points to same objects
+# print(id(a))
+# print(id(b))
+
+l1 = [3,2,1]
+l2 = [4,2,1]
+# print(l1 is l2)
+
+# final_output = []
+# for i in range(len(l1)):
+#     status = l1[i] is l2[i]
+#     print('address of indexed value from l1:',id(l1[i]))
+#     print('address of indexed value from l2:',id(l2[i]))
+
+#     final_output.append(status)
+    
+# print('final output',final_output)
+
+l1 = [3,2,1]
+
+print(-1 in l1) # membership operator 
+
+
+
+
+# if else >>>>
+
+age = 11
+# if age>18:
+#     print('your eligible')
+# elif 10<age<40:
+#     print('check your age-- between 10-40')
+
+# elif age>15:
+#     print('random')
+
+# else:
+#     print('check your age ')
+
+
+# what is nested if else ??
+
+age = 34
+if age>18:
+    data = input('Enter your name')
+    if len(data)<5:
+        print('Please enter your full name')
+    else:
+        print('welcome to page',data)
+else:
+    print('you are not eligible')
+
+
+
+age = 34
+if age>18:
+    data = input('Enter your name')
+    if len(data)<5:
+        print('Please enter your full name')
+    elif data:
+        print('soemthing')
+    else:
+        print('sonething ')
+elif False:
+    if False:
+        print('inside if')
+    elif True:
+        print('somehtinf')
