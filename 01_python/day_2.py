@@ -40,7 +40,7 @@ marks = [25,28,27,28] # assume I am adding. more value into list ??
 
 # via indexing ??
 
-print(len(marks))
+# print(len(marks))
 # print(range(5))
 
 
@@ -71,21 +71,65 @@ data = ['rahul','test','xyz','abc','test']
 
 # find where is 'test' ??
 # key= test ?? return --> index
-key = 'tasty'
-count = 0
-for i in range(len(data)):
-    if data[i]==key:
-        print('found it at index {}'.format(i))
-        count = count +1
+# key = 'tasty'
+# count = 0
+# for i in range(len(data)):
+#     if data[i]==key:
+#         print('found it at index {}'.format(i))
+#         count = count +1
 
-print("total occurance of {} is {}".format(key,count))
+# print("total occurance of {} is {}".format(key,count))
 
 
 # end of discussion : flow control --> iterate ( list / tuple)
 
-data = (12,34,36,38,34,12,76)
-total = 1
-for i in data:
-    total = total*i
+# data = (12,34,36,38,34,12,76)
+# total = 1
+# for i in data:
+#     total = total*i
 
-print('product if given tuple is {}'.format(total))
+# print('product if given tuple is {}'.format(total))
+
+
+# operator ??
+# arithmetic 
+# comparision operator
+# logical operator
+# bitwise operators
+# assignment operator
+# special operaotr
+
+# Arithmetic operator : + , -, *, /, %, //, ** ( 2^2)
+
+# print(5**3)
+
+# >, <, ==, !=, >=, <=
+
+# a = 10
+# b = 11
+# print(a<b)
+
+
+# logical operator
+
+is_ssn_number_valid = True
+is_valid_passport = False
+
+
+# print(not is_valid_passport)
+print(is_ssn_number_valid or is_valid_passport)
+
+a = 10
+b = 11
+
+# for and : both should be true --> true
+# for or : any of them should be true --> true
+# for or if both are false --> false
+
+
+
+a = 100
+b = 101
+
+# bitwise AND
+print(a and b) # | called as pipe operator
