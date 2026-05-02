@@ -75,17 +75,47 @@
 # program to check given number is prime number or not ??
 
 
-num = int(input("Enter a number : "))
+# num = int(input("Enter a number : "))
 
-isDivisible= False
-i = 2
+# isDivisible= False
+# i = 2
 
-while i<num:
-    if num % i ==0:
-        isDivisible = True
-    i = i+1
+# while i<num:
+#     if num % i ==0:
+#         isDivisible = True
+#     i = i+1
 
-if isDivisible:
-    print('{} is not a prime number'.format(num))
-else:
-    print('{} is a prime number'.format(num))
+# if isDivisible:
+#     print('{} is not a prime number'.format(num))
+# else:
+#     print('{} is a prime number'.format(num))
+
+# few examples of break and continue ??
+
+# name = ['abc','kbc']
+# key = 'xyz'
+
+# for i in range(len(name)):
+#     if name[i] == key:
+#         print('found at {}'.format(i))
+#         continue
+#     print('Given key is not available')
+
+
+# python function
+# user defined function
+# in-built functions ??
+# eg --> type(), len(),print()
+
+
+# user defined function s??
+
+# define your function ( write the busines logic here)
+def test():
+    c = a+b
+    return c,a
+
+# 2. call your fucntion --> make sure you are passing the input
+result = test(45,65) 
+print(result)
+
