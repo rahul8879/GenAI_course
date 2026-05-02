@@ -1,6 +1,6 @@
 
 # Agenda ??
-# For loop
+# For loop.  ?? very very imp --> iterview --> product/solution AI --> 
 # while loop
 # what is break ? what is continue
 # what is python functions ?? different types of python fucntions --> 
@@ -46,16 +46,46 @@
 
 # sales data --> daily sales ---> for different product ( 2 product --> avg sales)
 
-sales = [[[23,45,67],[23,34,53,67]],[[45,45,100],[34,89,79,67]]]
+# sales = [[[23,45,67],[23,34,53,67]],[[45,45,100],[34,89,79,67]]]
 
-final_output = []
-for i in sales:
-    total_sales = 0
-    day_sales = []
-    for j in i:
-        for k in j:
-            total_sales +=k
-            day_sales.append(round(total_sales/len(j),2))
-    final_output.append(day_sales)
+# final_output = []
+# for i in sales:
+#     day_sales=[]
+#     for j in i:
+#         total_sales = 0
+#         for k in j:
+#             total_sales +=k
+#         day_sales.append(round(total_sales/len(j),2))
+#     final_output.append(day_sales)
 
-print('final score/output',final_output)
+# print('final score/output',final_output)
+
+
+# while loop
+# marks = [23,34,56]
+# print(len(marks))
+# while len(marks)>1:
+#     print('give me more data')
+#     stop = input("enter EXIT to kill the process ")
+#     if stop=='EXIT':
+#         break
+
+# print('outside of while block')
+
+# program to check given number is prime number or not ??
+
+
+num = int(input("Enter a number : "))
+
+isDivisible= False
+i = 2
+
+while i<num:
+    if num % i ==0:
+        isDivisible = True
+    i = i+1
+
+if isDivisible:
+    print('{} is not a prime number'.format(num))
+else:
+    print('{} is a prime number'.format(num))
