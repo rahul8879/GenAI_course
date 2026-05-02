@@ -203,8 +203,11 @@ else:
 
 age = 34
 if age>18:
+    
+
     data = input('Enter your name')
     if len(data)<5:
+        # th
         print('Please enter your full name')
     elif data:
         print('soemthing')
