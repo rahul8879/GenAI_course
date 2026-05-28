@@ -93,3 +93,7 @@ plt.xlabel('Income')
 plt.ylabel('Frequency')
 # plt.show()
 plt.savefig('income_distribution.png')
+
+
+# git fetch main
+# git merge origin/main
