@@ -1,0 +1,101 @@
+,Unnamed: 0,subject,sender,body,category,score
+0,0,Invoice Discrepancy,finance@company.com,"My invoice is wrong, please fix it.",Billing , 10
+1,1,Need to Update Payment Method,billing@client.com,I need to update my payment method for the subscription.,Billing , 10
+2,2,Subscription Cancellation,support@business.com,Please cancel my subscription immediately.,Billing , 9
+3,3,Invoice Not Received,admin@company.com,I haven't received my latest invoice. Can you send it to me?,Billing , 10
+4,4,App Crashes on Save,dev@client.com,The app crashes when I click Save. Please assist.,Technical , 9
+5,5,Login Issues,user@company.com,I can't log into my account. It keeps showing an error message.,Technical , 10
+6,6,Feature Not Working,team@business.com,The report generation feature is not working as expected.,Technical , 10
+7,7,App Freezing,user@client.com,The app keeps freezing when I try to open it.,Technical , 10
+8,8,Request for Dark Mode,design@company.com,Please add dark mode to the application.,Feature Request , 10
+9,9,Add Custom Fields,pm@business.com,Can we add custom fields to the project management tool?,Feature Request , 9
+10,10,Integration with Slack,dev@team.com,I would like to request an integration with Slack.,Feature Request , 10
+11,11,Search Function Improvement,user@company.com,Could you improve the search function in the CRM?,Feature Request , 10
+12,12,Transaction History Not Showing,finance@client.com,My transaction history is not showing up in the account.,Billing , 9
+13,13,Forgot Password,user@company.com,I forgot my password and need help resetting it.,Technical , 10
+14,14,Payment Confirmation Request,accounts@company.com,Can you confirm if my payment went through?,Billing , 10
+15,15,Refund Status Inquiry,support@client.com,What is the status of my refund request?,Billing , 10
+16,16,Data Export Issue,admin@company.com,I am having trouble exporting data from the system.,Technical , 9
+17,17,Report Format Change,manager@client.com,Can you change the format of the report to PDF?,Feature Request , 8
+18,18,API Access Help,dev@business.com,I need help accessing the API.,Technical , 10
+19,19,Subscription Invoice Not Correct,accounts@company.com,The recent subscription invoice is not correct. Please check.,Billing , 10
+20,20,"Twice the Charge, Half the Fun",customer1@company.com,"Wow, great job charging me twice this month. Do I get double the service for that? Fix this ASAP!",Billing , 10
+21,21,Invoice Confusion,billing@clientcompany.com,"I received my invoice, but I’m confused about some charges. Can you clarify this for me?",Billing , 10
+22,22,Is the System Down?,support@business.com,Something is broken in the system. Can you get it fixed?,Technical , 10
+23,23,Unable to Access Account,user@company.com,I can’t seem to access my account today. Please help!,Technical , 9
+24,24,Data Export Feature Needed,manager@team.com,I don’t understand why I can’t export data from the system. It’s quite limiting!,Feature Request , 9
+25,25,Need a Refund,client@business.com,I was charged for a service I didn’t use. I expect my refund soon.,Billing , 10
+26,26,Feature Request: Gantt Charts,product@company.com,Gantt charts would be a great addition. How come we don't have that yet?,Feature Request , 10
+27,27,Another Spam Email?,offers@random.com,Get rich quick! Click here for more info!,Spam , 10
+28,28,Can’t Connect to Project,teamlead@clientcompany.com,I can't seem to connect to my project. Something's off.,Technical , 9
+29,29,Feature Addition Idea,innovator@startup.com,You really should consider adding a collaboration tool. It’s frustrating without it!,Feature Request , 9
+30,30,Re: Subscription Inquiry,auto-reply@company.com,"Hello, I am currently out of the office and will respond to your email upon my return.",Other , 8
+31,31,Looking for Help,randomuser@random.com,Check out this amazing deal! You won't want to miss it!,Spam , 10
+32,32,Out of Office,support@company.com,I am out of the office until next week. Please contact another representative for immediate assistance.,Other , 10
+33,33,Need a Feature: Team Chat,dev@company.com,Why doesn’t the tool have a team chat feature? It would be so useful!,Feature Request , 10
+34,34,Payment Issue,client@business.com,I can’t believe you charged my card again for something I canceled last month.,Billing , 10
+35,35,System Error,user@business.com,There’s something broken in your system that prevents me from logging in.,Technical , 10
+36,36,I Want to Export My Data,director@company.com,Why can’t I export my data? This is a major flaw in the system.,Feature Request , 8
+37,37,Investment Opportunity,opportunity@scam.com,You have been selected for an incredible investment opportunity! Click here!,Spam , 10
+38,38,Account Locked,user@company.com,My account is locked and I need immediate access!,Technical , 9
+39,39,Help with Subscription,user@sample.com,I am unsure if I am on the right subscription plan. Can you assist me with that?,Billing , 9
+40,40,Urgent Payment Issue,finance@company.com,"I'm unable to log in, and it looks like we were charged twice for this month. Can you help?",Billing , 9
+41,41,Competitor Pricing Concerns,admin@company.com,We've seen a 40% jump in pricing and are evaluating our options. What gives?,Billing , 9
+42,42,API Limits Inquiry,dev@company.com,Quick question about API limits — our payroll runs tonight and we need to ensure we're covered.,Technical , 9
+43,43,Login Trouble Due to Payment,user@company.com,I can't access my account because my payment failed. Can you sort this out?,Billing , 9
+44,44,Export Feature Missing,analyst@company.com,"I suppose I'll just work around your missing export feature, but it would be nice to have it.",Feature Request , 9
+45,45,Integration Issue,support@company.com,"We're facing issues with the integration, and it's affecting our workflow. Please advise.",Technical , 9
+46,46,Feature Request for Enhanced Reporting,manager@company.com,"I need to be able to generate detailed reports, which is currently not possible. Can this be added?",Feature Request , 10
+47,47,Reactivation and Billing,contact@company.com,"Our account was inactive, but now we're charged again. Can we reactivate without extra fees?",Billing , 9
+48,48,Login Errors After Update,staff@company.com,"Since the last update, I can't log in. Did something change?",Technical , 10
+49,49,Budgeting Concerns,finance@company.com,We're evaluating our expenses as we're over our budget. Can you explain the recent price changes?,Billing , 9
+50,50,Feature Request Clarity,devteam@company.com,We need better collaboration tools integrated. Can you clarify if this is in the roadmap?,Feature Request , 10
+51,51,Payment Link Not Working,billing@company.com,"The payment link isn't working, and I need to log in to access certain features. Help!",Billing , 10
+52,52,API Processing Delay,developer@company.com,We're experiencing delays with the API. What should we do? This is affecting our production.,Technical , 9
+53,53,Project Management Tools Missing,product@company.com,It seems like the project management tools are missing from the dashboard. Can this be rectified?,Technical , 9
+54,54,Unexpected Charges,operations@company.com,I've noticed unexpected charges on our account this month. Can you investigate?,Billing , 10
+55,55,Feedback on New Features,teamlead@company.com,I have some feedback on the new features released last week. Can we discuss potential changes?,Feature Request , 8
+56,56,Payment Authorization Confusion,admin@company.com,"I thought our payment was authorized, but my account shows otherwise. What’s happening?",Billing , 9
+57,57,Software Glitch,user@company.com,There seems to be a glitch in the software. Can someone take a look at this ASAP?,Technical , 9
+58,58,Missing Features Post-Upgrade,manager@company.com,"After the last upgrade, I noticed missing functionalities. Can you clarify when these will be restored?",Feature Request , 8
+59,59,Unclear Billing Cycle,contact@company.com,I’m not clear on our billing cycle as it seems to have changed. Can you explain?,Billing , 10
+60,60,"Mera account band ho gaya, please help",rahul@techstartup.in,Mera account band ho gaya hai aur mujhe urgent access chahiye. Please jaldi se help karein.,Technical , 8
+61,61,GST number not reflecting on invoice,anita@financesolutions.com,"Main apne invoices pe GST number nahi dekh paa rahi. Isko jaldi resolve karein, please.",Billing , 9
+62,62,UPI payment failed,suresh@logistics.co.in,Meri UPI payment process nahi ho rahi thi. Aapka system kuch galat hai kya?,Technical , 9
+63,63,Diwali season discount request,neha@consultingfirm.com,"Diwali season aane wala hai, kya aap koi discount offer kar sakte hain?",Other , 6
+64,64,NEFT not credited,vinayak@construction.com,"Maine NEFT kiya tha, par abhi tak amount credit nahi hua. Please check karein.",Billing , 9
+65,65,Account accessibility issue,priya@marketplace.in,Mere account se login nahi ho raha hai. Bahut zaruri kaam hai mujhe.,Technical , 7
+66,66,Feature Request: Integration with Indian payment gateways,karthik@ecommerce.com,Kya aap Indian payment gateways jaise Paytm aur PhonePe ke liye integration kar sakte hain? Yeh hamare liye useful hoga.,Feature Request , 10
+67,67,Feature enhancement suggestion,deepak@healthtech.co.in,Kya aap task reminders ko automate karne ki feature implement kar sakte hain? Yeh meri team ke liye helpful hoga.,Feature Request , 9
+68,68,Urgent: Account suspension notice,manoj@itservices.in,"Mujhe email mila hai ki mera account suspend hone wala hai. Yeh samasya jaldi solve karen, please.",Technical , 8
+69,69,Spam: Repeated promotional emails,fake@spam.com,Unsubscribe my email address from your list.,Spam , 10
+70,70,Need assistance with collaboration feature,sanjay@startup.co.in,Collaboration tools ka use karne mein thoda struggle ho raha hai. Kya aap help kar sakte hain?,Technical , 9
+71,71,Spam: Unrelated offers,noreply@offers.com,Check out our offers on random products.,Spam , 10
+72,72,Urgent need for feature update,aman@fintech.in,Agar aapne feature update nahi kiya toh mujhe dusri service use karni padegi. Please jaldi update karein.,Feature Request , 8
+73,73,Technical issue with reports,gita@analytics.in,"Reports open nahi ho rahe hain, mujhe urgent data chahiye. Isko resolve karein.",Technical , 9
+74,74,Request for feature walkthrough,ajay@edtech.com,Kya aap mujhe new features ka walkthrough de sakte hain? Mere team ko samajhne mein dikkat ho rahi hai.,Technical , 8
+75,75,Spam: Irrelevant marketing,subscribe@randommarketing.com,You have been selected for special discounts!,Spam , 10
+76,76,General feedback on UI,kiran@designstudio.in,Aapka UI kaafi acha hai lekin kuch features use karna mushkil ho raha hai. Main is par feedback de sakta hoon?,Feature Request , 8
+77,77,Mera login nahi ho raha,sunil@consultancy.com,"Mujhe account access nahi ho raha hai, kya aap mujhe jaldi se help kar sakte hain?",Technical , 9
+78,78,Need GST invoice update,mitali@travelagency.in,Mera GST number invoices pe nahi dikha raha hai. Isko jaldi thik karein.,Billing , 9
+79,79,Request for API access,rahul@startuplogistics.in,Kya aap mujhe API access de sakte hain? Mujhe jaldi se integration karna hai.,Technical , 8
+80,80,Billing Issue,client@example.com,Need help with bill.,Billing , 10
+81,81,CAN'T BELIEVE YOU CHARGED ME!,angryclient@example.com,THIS IS UNACCEPTABLE! FIX NOW!,Billing , 9
+82,82,Monthly Subscription,confuseduser@example.com,Why is my account charged twice?,Billing , 10
+83,83,Cancellation Notice,client@example.com,Last straw. Cancel my account.,Billing , 8
+84,84,Technical Glitch?,user@example.com,My tasks aren’t saving.,Technical , 9
+85,85,Need Assistance ASAP!,user@example.com,The app crashes on login.,Technical , 10
+86,86,App Broken?,user@example.com,Tasks don't appear after refresh.,Technical , 9
+87,87,Rejected Email,user@example.com,Just a test email.,Spam , 8
+88,88,Request for New Feature,user@example.com,Can you fix the export feature?,Technical , 8
+89,89,Recurring Issue,user@example.com,Tasks disappear regularly.,Technical , 9
+90,90,Lost Invoice,user@example.com,Need past invoices.,Billing , 9
+91,91,New Features You Need!,SalesGuru@example.com,Don't miss our latest offers!,Spam , 9
+92,92,Migration Help,anotheruser@example.com,Needed more help on migration.,Technical , 8
+93,93,FW: Project Update,wrongteam@example.com,Please see attached for review.,Other , 7
+94,94,Feature Bug,user@example.com,Export doesn't work properly.,Technical , 9
+95,95,New Client Inquiry,client@example.com,Can you send me more info?,Other , 6
+96,96,Report Missing Data,user@example.com,Data not showing in report.,Technical , 9
+97,97,WE NEED TO TALK!,angrycustomer@example.com,I'm done with your service!,Other , 5
+98,98,Urgent Billing Issue,client@example.com,Need refund for last month.,Billing , 10
+99,99,Spam or Not?,legituser@example.com,Check this out for you.,Other , 5
